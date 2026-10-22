@@ -1,0 +1,35 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "PokemonBox: cl.exe デバッグビルド",
+            "command": "cl.exe",
+            "args": [
+                "/Zi",
+                "/EHsc",
+                "/nologo",
+                "/utf-8",
+                "/I${workspaceFolder}\\include",
+                "/Fe${workspaceFolder}\\src\\PokemonBox.exe",
+                "${workspaceFolder}\\src\\main.cpp",
+                "${workspaceFolder}\\src\\Box.cpp",
+                "${workspaceFolder}\\src\\BoxStrage.cpp",
+                "${workspaceFolder}\\src\\ConsoleUI.cpp",
+                "${workspaceFolder}\\src\\Scout.cpp",
+                "${workspaceFolder}\\src\\Search.cpp"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$msCompile"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "PokemonBox全体をデバッグ情報付きでビルドします。"
+        }
+    ],
+    "version": "2.0.0"
+}

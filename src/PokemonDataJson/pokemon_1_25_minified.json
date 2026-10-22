@@ -1,0 +1,265 @@
+﻿[
+    {
+        "id":  1,
+        "name":  "bulbasaur",
+        "types":  [
+                      "grass",
+                      "poison"
+                  ],
+        "hp":  45,
+        "attack":  49,
+        "defense":  49
+    },
+    {
+        "id":  2,
+        "name":  "ivysaur",
+        "types":  [
+                      "grass",
+                      "poison"
+                  ],
+        "hp":  60,
+        "attack":  62,
+        "defense":  63
+    },
+    {
+        "id":  3,
+        "name":  "venusaur",
+        "types":  [
+                      "grass",
+                      "poison"
+                  ],
+        "hp":  80,
+        "attack":  82,
+        "defense":  83
+    },
+    {
+        "id":  4,
+        "name":  "charmander",
+        "types":  [
+                      "fire"
+                  ],
+        "hp":  39,
+        "attack":  52,
+        "defense":  43
+    },
+    {
+        "id":  5,
+        "name":  "charmeleon",
+        "types":  [
+                      "fire"
+                  ],
+        "hp":  58,
+        "attack":  64,
+        "defense":  58
+    },
+    {
+        "id":  6,
+        "name":  "charizard",
+        "types":  [
+                      "fire",
+                      "flying"
+                  ],
+        "hp":  78,
+        "attack":  84,
+        "defense":  78
+    },
+    {
+        "id":  7,
+        "name":  "squirtle",
+        "types":  [
+                      "water"
+                  ],
+        "hp":  44,
+        "attack":  48,
+        "defense":  65
+    },
+    {
+        "id":  8,
+        "name":  "wartortle",
+        "types":  [
+                      "water"
+                  ],
+        "hp":  59,
+        "attack":  63,
+        "defense":  80
+    },
+    {
+        "id":  9,
+        "name":  "blastoise",
+        "types":  [
+                      "water"
+                  ],
+        "hp":  79,
+        "attack":  83,
+        "defense":  100
+    },
+    {
+        "id":  10,
+        "name":  "caterpie",
+        "types":  [
+                      "bug"
+                  ],
+        "hp":  45,
+        "attack":  30,
+        "defense":  35
+    },
+    {
+        "id":  11,
+        "name":  "metapod",
+        "types":  [
+                      "bug"
+                  ],
+        "hp":  50,
+        "attack":  20,
+        "defense":  55
+    },
+    {
+        "id":  12,
+        "name":  "butterfree",
+        "types":  [
+                      "bug",
+                      "flying"
+                  ],
+        "hp":  60,
+        "attack":  45,
+        "defense":  50
+    },
+    {
+        "id":  13,
+        "name":  "weedle",
+        "types":  [
+                      "bug",
+                      "poison"
+                  ],
+        "hp":  40,
+        "attack":  35,
+        "defense":  30
+    },
+    {
+        "id":  14,
+        "name":  "kakuna",
+        "types":  [
+                      "bug",
+                      "poison"
+                  ],
+        "hp":  45,
+        "attack":  25,
+        "defense":  50
+    },
+    {
+        "id":  15,
+        "name":  "beedrill",
+        "types":  [
+                      "bug",
+                      "poison"
+                  ],
+        "hp":  65,
+        "attack":  90,
+        "defense":  40
+    },
+    {
+        "id":  16,
+        "name":  "pidgey",
+        "types":  [
+                      "normal",
+                      "flying"
+                  ],
+        "hp":  40,
+        "attack":  45,
+        "defense":  40
+    },
+    {
+        "id":  17,
+        "name":  "pidgeotto",
+        "types":  [
+                      "normal",
+                      "flying"
+                  ],
+        "hp":  63,
+        "attack":  60,
+        "defense":  55
+    },
+    {
+        "id":  18,
+        "name":  "pidgeot",
+        "types":  [
+                      "normal",
+                      "flying"
+                  ],
+        "hp":  83,
+        "attack":  80,
+        "defense":  75
+    },
+    {
+        "id":  19,
+        "name":  "rattata",
+        "types":  [
+                      "normal"
+                  ],
+        "hp":  30,
+        "attack":  56,
+        "defense":  35
+    },
+    {
+        "id":  20,
+        "name":  "raticate",
+        "types":  [
+                      "normal"
+                  ],
+        "hp":  55,
+        "attack":  81,
+        "defense":  60
+    },
+    {
+        "id":  21,
+        "name":  "spearow",
+        "types":  [
+                      "normal",
+                      "flying"
+                  ],
+        "hp":  40,
+        "attack":  60,
+        "defense":  30
+    },
+    {
+        "id":  22,
+        "name":  "fearow",
+        "types":  [
+                      "normal",
+                      "flying"
+                  ],
+        "hp":  65,
+        "attack":  90,
+        "defense":  65
+    },
+    {
+        "id":  23,
+        "name":  "ekans",
+        "types":  [
+                      "poison"
+                  ],
+        "hp":  35,
+        "attack":  60,
+        "defense":  44
+    },
+    {
+        "id":  24,
+        "name":  "arbok",
+        "types":  [
+                      "poison"
+                  ],
+        "hp":  60,
+        "attack":  95,
+        "defense":  69
+    },
+    {
+        "id":  25,
+        "name":  "pikachu",
+        "types":  [
+                      "electric"
+                  ],
+        "hp":  35,
+        "attack":  55,
+        "defense":  40
+    }
+]

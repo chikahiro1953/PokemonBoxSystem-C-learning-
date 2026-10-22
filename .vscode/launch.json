@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "PokemonBoxをデバッグ",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}\\src\\PokemonBox.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}\\src",
+            "externalConsole": false,
+            "preLaunchTask": "PokemonBox: cl.exe デバッグビルド"
+        }
+    ]
+}
